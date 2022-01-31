@@ -1,4 +1,4 @@
-module sfcc-properties
+module github.com/giacomozanatta/sfcc-properties
 
 go 1.17
 
