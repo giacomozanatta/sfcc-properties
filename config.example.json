@@ -1,0 +1,4 @@
+{
+    "cartridges": ["app_cartridge", "int_another_cartridge", "app_overriding_base", "app_storefront_base"],
+    "locales":["it","it_IT", "en", "en_GB", "ja_JP", "en_SE", "ko_KR", "ru", "ru_RU"]
+}
